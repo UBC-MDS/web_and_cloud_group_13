@@ -1,4 +1,4 @@
-# DSCI 525 Group 13 Project Daily Rain Fall in Australia
+# Predicting Daily Rainfall in Australia Group 13 
 
 This group project is for the DSCI 525 Web and Cloud Computing course in the UBC Master of Data Science program 2021-2022
 
@@ -18,4 +18,4 @@ This GitHub repository was created by Amelia Tang, Chaoran Wang, Junrong Zhu
 
 ### License
 
-The project is protected under the MIT License.
+The project is protected under the [MIT License](https://github.com/UBC-MDS/web_and_cloud_group_13/blob/main/LICENSE).
