@@ -1,6 +1,6 @@
 # Predicting Daily Rainfall in Australia Group 13 
 
-This group project is for the DSCI 525 Web and Cloud Computing course in the UBC Master of Data Science program 2021-2022
+This group project is for the DSCI 525 Web and Cloud Computing course in the UBC Master of Data Science program 2021-2022.
 
 ### Overview
 
